@@ -4,6 +4,8 @@ Codex skill for diagnosing and fixing uni-app mini-program issues, with a focus 
 
 ## What It Covers
 
+> **Keywords**: `uniapp` `miniprogram` `tabbar-jumping` `CE1000` `wechat-vs-alipay` `ai-skill`
+
 - `pages.json`, `switchTab`, custom tabBar, and lifecycle rules.
 - WeChat custom tabBar and Alipay customize tabBar differences.
 - Alipay CE1000 and red-screen component errors.
@@ -32,6 +34,10 @@ Ask Codex about uni-app mini-program issues, for example:
 ```text
 uni-app 微信和支付宝 tabBar 切换闪烁，帮我排查
 ```
+
+## 如何贡献
+
+欢迎提交 Issue 和 Pull Request！详见 [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## License
 
